@@ -243,21 +243,27 @@ http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd?checkedby:hlscat.com Arb_SD
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Arb 24
 http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd?checkedby:hlscat.com ARB_24_SD 
 
-
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd?checkedby:hlscat.com
 ATV AZERBAİJAN HD 
 
 
-AZAD TV_SD 
+ #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd?checkedby:hlscat.com AZAD TV_SD
 
 
 
-ATV(1)
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Undefined",ATV 1
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?checkedby:hlscat.com ATV(1)
 
 
-ATV(1)  
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Undefined",ATV 1
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?checkedby:hlscat.com ATV(1)  
 
 
-ATV(2)
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Undefined",ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8?checkedby:hlscat.com ATV(2)
 
 
-ATV(4)
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Undefined",ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8?checkedby:hlscat.com ATV(4)
