@@ -305,3 +305,16 @@ http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd?checkedby:hlscat.com DUNYA T
 https://www.tvkaista.net/stream-forwarder/get.php?x=KanalS. Kanal S 
 
 
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",GUNAZ TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45470?checkedby:hlscat.com  GUNAZ TV HD AZ 
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",REAL TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45473?checkedby:hlscat.com REAL TV HD AZ 
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",CBC AZERBAYCAN HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/17312?checkedby:hlscat.com CBC AZERBAYCAN HD AZ 
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",CBC Azerbaijan
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd?checkedby:hlscat.com CBC AZERBAİJAN 
