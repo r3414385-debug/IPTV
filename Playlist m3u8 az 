@@ -286,4 +286,11 @@ http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd?checkedby:hlscat.com AzTV_SD
 http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd?checkedby:hlscat.com Mədəniyyət 
 
 
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Idman TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/17305?checkedby:hlscat.com İdman TV HD AZ 
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Idman
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd?checkedby:hlscat.com İdman HD AZ 
+
 
