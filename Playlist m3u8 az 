@@ -232,7 +232,8 @@ TV 36
 
 FTV 
 
-
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Arb Günəş
+http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd?checkedby:hlscat.com
 Arb_günəş_SD 
 
 
