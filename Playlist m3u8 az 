@@ -294,3 +294,11 @@ http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/17305?checkedby:hlscat
 http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd?checkedby:hlscat.com İdman HD AZ 
 
 
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",DUNYA TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45469?checkedby:hlscat.com DUNYA TV HD AZ 
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Dunya TV
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd?checkedby:hlscat.com DUNYA TV 
+
+
