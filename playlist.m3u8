@@ -31,6 +31,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8 Kanal S HD AZ 
 
+
+
 https://www.tvkaista.net/stream-forwarder/get.php?x=RealTV REAL TV HD AZ 
 
 
@@ -116,9 +118,14 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 
 
 
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Lider
+http://mfe.cliptv.az/dash/Lider_SD.ism/playlist.mpd?checkedby:hlscat.com
+Ledir Azərbaycan TV_SD 
 
 
-Ledir TV
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",LIDER TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45471?checkedby:hlscat.com
+LEDİR TV HD AZ 
 
 
 VİRTUAL SPORTS 
@@ -226,4 +233,30 @@ TV 36
 FTV 
 
 
+Arb_günəş_SD 
 
+
+Arb_SD
+
+
+
+ARB_24_SD 
+
+
+ATV AZERBAİJAN HD 
+
+
+AZAD TV_SD 
+
+
+
+ATV(1)
+
+
+ATV(1)  
+
+
+ATV(2)
+
+
+ATV(4)
