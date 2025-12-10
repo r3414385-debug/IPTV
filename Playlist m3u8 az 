@@ -171,7 +171,8 @@ SƏS TV
 MEDİA TURK 
 
 
-QƏBƏLƏ TV 
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",QƏBƏLƏ TV
+https://qebele.tv/live/stream/index.m3u8?checkedby:hlscat.com QƏBƏLƏ TV 
 
 
 QAFQAZ TV 
@@ -318,3 +319,44 @@ http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/17312?checkedby:hlscat
 
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",CBC Azerbaijan
 http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd?checkedby:hlscat.com CBC Azerbaijan 
+
+
+https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP VİP HD
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",REAL TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45473?checkedby:hlscat.com REAL TV HD AZ 
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Real TV
+http://mfe.cliptv.az/dash/Real_TV_SD.ism/playlist.mpd?checkedby:hlscat.com REAL TV 
+
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AL ZAHRA TV
+http://live.al-zahratv.com/live/playlist.m3u8?checkedby:hlscat.com AL ZAHAR TV
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AMC
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd?checkedby:hlscat.com AMC_SD
+
+
+
+https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV SƏHİYYƏ TV 
+
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",MTV Azerbaycan HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45467?checkedby:hlscat.com MTV AZERBAYCAN HD AZ 
+
+
+http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",MuzTV
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd?checkedby:hlscat.com MUZTV 
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Dalğa TV
+http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd?checkedby:hlscat.com DALGA TV SD
+
+
+
