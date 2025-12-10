@@ -153,8 +153,8 @@ ANGOR AZERBAİJAN
 114TV TV 
 
 
-
-NAXÇIVAN TV 
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",NTV
+http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd?checkedby:hlscat.com NAXÇIVAN TV HD AZ 
 
 
 
@@ -200,7 +200,7 @@ ARB KƏPƏZ
 
 ARB ŞİMAL
 
-
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",GUNAZ TV
 GUNAZTV 
 
 
@@ -369,6 +369,9 @@ http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45468?checkedby:hlscat
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:hlscat.com ElTV 
 
 
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Ani
+http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd?checkedby:hlscat.com ANITV_SD 
 
 STANSA SPORT 1
 
