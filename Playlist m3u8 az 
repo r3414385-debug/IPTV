@@ -351,8 +351,6 @@ https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV SƏHİYYƏ TV
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",MTV Azerbaycan HD AZ
 http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45467?checkedby:hlscat.com MTV AZERBAYCAN HD AZ 
 
-
-http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd?checkedby:hlscat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",MuzTV
 http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd?checkedby:hlscat.com MUZTV 
 
