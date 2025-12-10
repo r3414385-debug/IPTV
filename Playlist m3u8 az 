@@ -267,3 +267,23 @@ http://85.132.81.184:8080/atv-2/index.m3u8?checkedby:hlscat.com ATV(2)
 
 #EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Undefined",ATV 4
 http://85.132.81.184:8080/atv-4/index.m3u8?checkedby:hlscat.com ATV(4)
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Ictimai
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd?checkedby:hlscat.com  İctimai 
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:hlscat.com CBC Sport 
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AzTV
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd?checkedby:hlscat.com AzTV_SD 
+
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Mədəniyyət
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd?checkedby:hlscat.com Mədəniyyət 
+
+
+
