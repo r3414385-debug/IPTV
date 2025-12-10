@@ -359,4 +359,12 @@ http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd?checkedby:hlscat.com M
 http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd?checkedby:hlscat.com DALGA TV SD
 
 
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",DALGA TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45468?checkedby:hlscat.com DALGA TV HD AZ 
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:hlscat.com ElTV 
+
+
 
