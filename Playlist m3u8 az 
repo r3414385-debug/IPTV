@@ -400,28 +400,25 @@ https://str2.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8TMB Azerbaycan
 http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8 Biznes TV 
 
 
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+PeykTV_AZERBAYCAN 
 
-İPTV_AZERBAYCAN 
+http://str.yodacdn.net/atv/index.m3u8     ATV Azerbaijan 
 
+http://str.yodacdn.net/azertv/index.m3u8 AZTV 
 
-ATV Azerbaijan 
-
-
-AZTV 
-
-
-MEDENIYET TV 
+http://str.yodacdn.net/medeniyyettele/index.m3u8 MEDENIYET TV 
 
 
-XAZAR TV
+http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8 XAZAR TV
 
-
+http://str.yodacdn.net/cbc/index.m3u8
 CBC SPORT HD 
 
+http://str.yodacdn.net/ictimaitele/index.m3u8 Ictimai TV 
+http://str.yodacdn.net/cbc/index.m3u8 CBC TV
 
-CBC TV
-
-
+http://str.yodacdn.net/mtvaz/index.m3u8
 MTV Azerbaijan 
 
 
@@ -432,6 +429,33 @@ Kanal S TV
 
 
 Ayaz TV 
+
+ARB gunesh
+
+
+ARB TV
+
+ARB24 
+
+REAL TV 
+
+
+ALVİN CHANNEL 
+
+
+APA TV 
+
+Azerbaijan Music 
+
+
+Azerbaijan Music Plus 
+
+
+Russia Music  
+
+
+Kn TV 
+
 
 
 
