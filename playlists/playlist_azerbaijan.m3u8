@@ -5,7 +5,7 @@ http://85.132.81.184:8080/arb/live/index.m3u8
 https://www.tvkaista.net/stream-forwarder/get.php?x=ARMGunes
 #EXTINF:-1 tvg-name="ARB Ⓢ" tvg-logo="https://i.imgur.com/E97M2OL.png" tvg-id="ARB.az" group-title="Azerbaijan",ARB Ⓢ
 http://109.205.166.68/server124/arb/index.m3u8
-#EXTINF:-1 tvg-name="Azad Azərbaycan TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ATV_%282012-h.h.%29.png/474px-ATV_%282012-h.h.%29.png" tvg-id="AzadTV.az" group-title="Azerbaijan",Azad TV Ⓢ
+#EXTINF:-1 tvg-name="Azad TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ATV_%282012-h.h.%29.png/474px-ATV_%282012-h.h.%29.png" tvg-id="AzadTV.az" group-title="Azerbaijan",Azad TV Ⓢ
 https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz
 #EXTINF:-1 tvg-name="AzStarTV" tvg-logo="https://i.imgur.com/di3XX5L.png" tvg-id="AzStarTV.ca" group-title="Azerbaijan",AzStarTV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
@@ -41,5 +41,3 @@ https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV
 https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP
 #EXTINF:-1 tvg-name="MTV Azerbaijan Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/622px-MTV_Az%C9%99rbaycan_%282022%29.png" tvg-id="MTVAzerbaijan.az" group-title="Azerbaijan",MTV Azerbaijan Ⓢ
 https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan
-
-
