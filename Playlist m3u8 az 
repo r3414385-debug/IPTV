@@ -161,7 +161,8 @@ REAKSIYA TV
 
 
 
-SHOWS PLUS TV 
+
+https://rtmp.showplus.tv/hls/myshow.m3u8 SHOWS PLUS TV 
 
 
 
@@ -176,7 +177,7 @@ MEDİA TURK
 https://qebele.tv/live/stream/index.m3u8?checkedby:hlscat.com QƏBƏLƏ TV 
 
 
-QAFQAZ TV 
+https://str1.yodacdn.net/qafkaz/playlist.m3u8 QAFQAZ TV 
 
 
 TOPLUM TV 
@@ -218,8 +219,7 @@ ATV CİNEMA
 
 ATV VİVACE 
 
-
-KANAL 35
+http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8 KANAL 35
 
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8 konsul TV
 
@@ -383,6 +383,10 @@ STANSA SPORT 2
 STANSA SPORT +
 
 STANSA SPORT +
+  
 
+https://str2.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8TMB Azerbaycan 
+
+http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8 Biznes TV 
 
 
