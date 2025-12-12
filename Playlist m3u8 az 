@@ -1,41 +1,24 @@
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8/kids/ARB GUNES HD.AZ 
+https://www.tvkaista.net/stream-keds forwarder/get.php?x=ARMGunes ARB GUNES http://109.205.166.68/server124/arb/gerinal index.m3u8 ARB24SD
+http://85.132.81.184:8080/arb/live/news index.m3u8  ARB24 SD
+https://www.tvkaista.net/stream-forwarder/get.php?gerenalx=ATVAz AZAD AZƏRBAYCAN  TV SD
+https://live.itv.az/itv gerenal.m3u8 ICTİMAİ TV SD
+https://mn-nl.mncdn.com/cbcsports_live/  cbcsports/playlist Sports.m3u8 CBC SPORT SD
+https://str.yodacdn.net/aztv/ gerenal index.m3u8   AZTV SD
+https://str.yodacdn.net/medeniyyet/medeniyyet index.m3u8 MƏDƏNİYYƏT TV SD
+http://109.205.166.68/server124/ Sports idman_az/index.m3u8  IDMAN AZƏRBAYCN TV SD
 
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8 /General/ARB HD AZ 
+https://www.tvkaista.net/stream- gerenalforwarder/get.php?x=Dunya DUNYA TV SD AMC
 
-https://raw.githubusercontent.com/UzunMuhalefet/streams news/main/myvideo-az/arb-24.m3u8 / News/ARB24 HD AZ 
+https://www.tvkaista.net/stream-forwarder/get.php?x=KanalS Kanal S
 
+#EXTINF:0 tvg-country="AZ" tvg-logo="" news group-title="Undefined", GUNAZ TV HD AZ
 
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8 /General / Azad Azərbaycan TV HD AZ 
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45470?checkedby:hlscat.com
 
-
-https://stream.atv.az/WebRTCAp/streams780339739845112514894920_adaptive.m3u8/General Azad Azərbaycan TV AZ 
-
-https://live.itv.az/itv.m3u8 / General/ İCTİMAİ TV HD AZ 
-
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8/Sport/CBC SPORT HD AZ 
-
-
-https://str.yodacdn.net/aztv/index.m3u8/ General/AZTV HD AZ 
-
- 
-https://str.yodacdn.net/medeniyyet/index.m3u8 /Mədəniyyət/  Mədəniyyət TV SD 
-
-
-http://109.205.166.68/server124/idman_az/index.m3u8/ Sport İdman Azərbaycan TV  
-
-http://109.205.166.68/server124/İDMAN_SD / Sport index.m3u8/  İdman Azərbaycan TV SD 
-
-https://raw.githubusercontent.com/UzunMuhalefet/streams General/refs/heads/main/myvideo-az/dunya-tv.m3u8/DUNYA TV Sd
-
-
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/mai General n/myvideo-az/kanal-s.m3u8/ Kanal S H
-
-
-
-https://www.tvkaista.net/stream News-forwarder/get.php?x=RealTV//REAL TV SD
-
-
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8/CBC AZƏRBAYCAN TV SD
+https://www.tvkaista.net/stream-news forwarder/get.php?x=RealTV  REAL TV SD
+https://stream.cbctv.az:5443/LiveApp/streams/ news cbctv.m3u8  CBC AZƏRBAYCAN SD
+http://live.azstartv.com/azstar/Gerenal smil:azstar.smil/playlist.m3u8 AZSTAR TV SD
+ https://www.tvkaista.net/stream-gerenal forwarder/get.php?x=TMBAzerbaijan TMB AZƏRBAYCAN
 
 http://rtmp.apa.tv/@pagroup!23.m3u8/APA TV 
 
@@ -52,13 +35,8 @@ https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV/General/ Səhiyyə
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8./General/Alvin Channel TV 
 
 
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8/General/ XEZER TV SD
 
 
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8 SPACE TV SD
-
-
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8 TMB AZƏRBAYCAN 
 
 
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8 VİP TV
@@ -122,7 +100,7 @@ ANGOR AZERBAİJAN
 114TV TV 
 
 
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",NTV
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Naxçıvan TV 
 http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd?checkedby:hlscat.com NAXÇIVAN TV HD AZ 
 
 
