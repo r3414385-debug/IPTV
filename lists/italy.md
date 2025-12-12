@@ -25,7 +25,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 26  | Cielo Ⓖ       | [>](https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d) | <img height="20" src="https://i.imgur.com/cPluF03.png"/> | CieloTV.it |
 | 27  | 27 Twentyseven Ⓖ | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/y2PdPCK.png"/> | 27Twentyseven.it |
 | 28  | TV 2000        | [>](https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8) | <img height="20" src="https://i.imgur.com/x7RaK3a.png"/> | TV2000.va |
-| 29  | La7d           | [>](https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8) | <img height="20" src="https://i.imgur.com/AOL9nMw.png"/> | La7d.it |
+| 29  | La7 Cinema     | [>](https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8) | <img height="20" src="https://i.imgur.com/khPweok.png"/> | La7Cinema.it |
 | 30  | La 5 Ⓖ     | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/UNyJaho.png"/> | La5.it |
 | 31  | Real Time      | [>](https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8) | <img height="20" src="https://i.imgur.com/9dcTYg1.png"/> | RealTimeItaly.it |
 | 32  | QVC            | [>](https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8) | <img height="20" src="https://i.imgur.com/Ea7iUX2.png"/> | QVCItaly.it |
@@ -33,7 +33,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 34  | Cine34   Ⓖ   | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/YyldwhI.png"/> | Cine34.it |
 | 35  | Focus Ⓖ     | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/M4smqpF.png"/> | Focus.it |
 | 36  | RTL 102.5      | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KdissvS.png"/> | RTL1025TV.it |
-| 37  | Warner TV      | [>](https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8) | <img height="20" src="https://i.imgur.com/oIWFcOC.png"/> | WarnerTVItaly.it |
+| 37  | Discovery Channel | [>](https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8) | <img height="20" src="https://i.imgur.com/5IxIFJ0.png"/> | DiscoveryChannel.it |
 | 38  | Giallo         | [>](https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8) | <img height="20" src="https://i.imgur.com/0PIRwZS.png"/> | Giallo.it |
 | 39  | Top Crime   Ⓖ | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/RFIwv9O.png"/> | TopCrime.it |
 | 40  | BOING   Ⓖ     | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/niSlrqT.png"/> | BoingItaly.it |
@@ -66,7 +66,10 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 158 | Radio KISS KISS TV | [>](https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UTStxDW.png"/> | KissKissTV.it |
 | 202 | Rai Radio 2 Visual Radio | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/nVBet0h.png"/> | RaiRadio2Visual.it |
 | 233 | RTL 102.5 Traffic | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GH7byqm.jpeg"/> | RTL1025Traffic.it |
+| 236 | MAN-GA | [>](https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8a6WYU2.png"/> | Manga.it |
 | 246 | Radio24-IlSole24OreTV | [>](https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8) | <img height="20" src="https://i.imgur.com/NTqrdWW.png"/> | Radio24TV.it |
+| 247 | BeJoy.Kids | [>](https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8) | <img height="20" src="https://i.imgur.com/zuR9Go5.png"/> | BeJoyKids.it |
+| 257 | Gambero Rosso  | [>](https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8) | <img height="20" src="https://i.imgur.com/RApMW5x.png"/> | GamberoRosso.it |
 | 258 | RadioFreccia   | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8) | <img height="20" src="https://i.imgur.com/J5N9F7Z.png"/> | RadioFrecciaTV.it |
 | 265 | RDS Social TV | [>](https://stream.rdstv.radio/index.m3u8) | <img height="20" src="https://i.imgur.com/TY6FhqI.png"/> | RDSSocialTV.it |
 | 266 | Radio ZETA     | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0MgCm1n.png"/> | RadioZetaTV.it |
@@ -251,7 +254,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | RTC Quarta Rete | [>](https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rFGA6qL.png"/> |
 | 0   | RTC Telecalabria | [>](https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tTYLcuh.jpg"/> | RTCTelecalabria.it |
 | 0   | RTI Calabria | [>](https://stream.ets-sistemi.it:8081/rticalabria/index.m3u8) | <img height="20" src="https://i.imgur.com/hVzEvmo.jpg"/> |
-| 0   | RTL 102.5 + Plus | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S12772175/FmIo5I5kmwTy/playlist_video.m3u8) | <img height="20" src="https://i.imgur.com/mPqDtCO.png"/> | RTL1025Plus.it |
+| 0   | RTL 102.5 + Plus | [>](https://streamcdng14-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/cAcsSu4Wecc5/chunklist_b5256000.m3u8) | <img height="20" src="https://i.imgur.com/mPqDtCO.png"/> | RTL1025Plus.it |
 | 0   | RTM Manduria | [>](https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WwzU0EP.png"/> |
 | 0   | RTR99 Tv | [>](https://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mkO95pD.png"/> |
 | 0   | Rtp Tv | [>](http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/I1hYI0C.png"/> |
@@ -401,8 +404,8 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | Radio Colonna Tv Ⓨ | [>](https://www.youtube.com/radiocolonna/live) | <img height="20" src="https://i.imgur.com/EcQvDfq.png"/> |
-| 59  | Euronews Italian Ⓨ | [>](https://www.youtube.com/user/euronewsit/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsItalian.fr |
 | 519 | TRM h24 Ⓨ     | [>](https://www.youtube.com/user/trmh24/live) | <img height="20" src="https://i.imgur.com/d47CdYU.png"/> | TRMh24.it |
+| 59  | Euronews Italian Ⓨ | [>](https://www.youtube.com/user/euronewsit/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsItalian.fr |
 
 <h2>Twitch Live</h2>
 
