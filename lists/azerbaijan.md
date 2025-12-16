@@ -1,4 +1,4 @@
-<h1>Azerbaijan</h1>
+n<h1>Azerbaijan</h1>
 
 * https://az.wikipedia.org/wiki/Azərbaycan_televiziya_kanallarının_siyahısı
 
@@ -42,11 +42,11 @@
 | 0   | MTV Azerbaijan Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/622px-MTV_Az%C9%99rbaycan_%282022%29.png"/> | MTVAzerbaijan.az |
  
 
- |# |  Channel|       Link |         EPG id
+ |#   |  Channel.  |       Link.    |         EPG id
 
- |0  |ARB GUNES SD|[>]| i (https://www.tvkaista.net/stream-keds forwarder/get.php?x=ARMGunes) | ArbGunesh.az 
-|0  | ARBSD |[>]| http://109.205.166.68/server124/arb/gerinal index.m3u8 Arb.az
-|0 | ARB24 SD |[>]| http://85.132.81.184:8080/arb/live/news index.m3u8  Arb24.az
+ |0  |ARB GUNES SD|[>]|  i (https://www.tvkaista.net/stream-keds forwarder/get.php?x=ARMGunes) | ArbGunesh.az 
+|0  | ARBSD.     |  [>]     | http://109.205.166.68/server124/arb/gerinal index.m3u8 Arb.az
+|0 | ARB24 SD.    |  [>]  | http://85.132.81.184:8080/arb/live/news index.m3u8  Arb24.az
 | |
 |0 |AZAD AZƏRBAYCAN TV SD ([>]) https://www.tvkaista.net/stream-forwarder/get.php?gerenalx=ATVAz 
 |0|İCTIMAI TV SD |[>]| https://live.itv.az/itv gerenal.m3u8  
