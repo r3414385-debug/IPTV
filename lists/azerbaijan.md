@@ -46,7 +46,8 @@ iptv Kanallar iptv tv SD HD 2
 | #   | Channel        | Link  | Logo |
 EPG id 
 
-| 0   | APA TV| [>](http://rtmp.apa.tv/@pagroup!23.m3u8) | <img height="20" src="https://i.imgur.com/mtvIFyq.png"/> | APATV.az|
+| 0   | APA TV| [>](http://rtmp.apa.tv/@pagroup!23.m3u8) 
+News apa tv 
 
 
 
