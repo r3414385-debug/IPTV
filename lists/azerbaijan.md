@@ -26,7 +26,7 @@ n<h1>Azerbaijan</h1>
 | 0   | Real TV | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=RealTV) | <img height="20" src="https://i.imgur.com/e2KFL0R.png"/> | RealTV.az |
 | 0   | Space TV Ⓢ | [>](http://109.205.166.68/server124/space_tv/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Space_TV_loqosu_%282023-h.h.%29.png/296px-Space_TV_loqosu_%282023-h.h.%29.png"/> | SpaceTV.az |
 | 0   | TMB Azərbaycan | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=TMBAzerbaijan) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/c/c2/TMB_TV_loqosu.png"/> |
-| 0   | Topaz 2 | [>] | <img height="20" src="https://www.lyngsat.com/logo/tv/tt/topaz_tv_az.png"/> |
+| 0   | Topaz 2 | [>]| <img height="20" src="https://www.lyngsat.com/logo/tv/tt/topaz_tv_az.png"/> |
 | 0   | Xezer xeber | [>] | <img height="20" src="https://i.imgur.com/AuB8bnq.png"/> | XezerXeber.az |
 
 <h2>myvideo.az</h2>
