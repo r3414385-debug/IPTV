@@ -44,8 +44,8 @@ n<h1>Azerbaijan</h1>
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 
- |0  |ARB GUNES SD|[>]|  i (https://www.tvkaista.net/stream-keds forwarder/get.php?x=ARMGunes) | ArbGunesh.az 
-|0  | ARBSD.     |  [>]     | http://109.205.166.68/server124/arb/gerinal index.m3u8 Arb.az
+ | 0   | ARB GUNES SD|[>](https://www.tvkaista.net/stream-keds forwarder/get.php?x=ARMGunes) | ArbGunesh.az 
+| 0   |  ARBSD.     |  [>]     | http://109.205.166.68/server124/arb/gerinal index.m3u8 Arb.az
 |0 | ARB24 SD.    |  [>]  | http://85.132.81.184:8080/arb/live/news index.m3u8  Arb24.az
 | |
 |0 |AZAD AZƏRBAYCAN TV SD ([>]) https://www.tvkaista.net/stream-forwarder/get.php?gerenalx=ATVAz 
