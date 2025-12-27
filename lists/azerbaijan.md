@@ -41,13 +41,13 @@ n<h1>Azerbaijan</h1>
 | 0   | VIP HD | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP) | <img height="20" src="https://tvtolive.com/wp-content/uploads/VIP-TV-tvtolive.com_.jpg"/> |
 | 0   | MTV Azerbaijan Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/622px-MTV_Az%C9%99rbaycan_%282022%29.png"/> | 
 
-iptv Kanallar iptv tv SD HD 2
+iptvtv.az 
 
 | #   | Channel        | Link  | Logo |
 EPG id 
 
 | 0   | APA TV| [>](http://rtmp.apa.tv/@pagroup!23.m3u8) 
-News apa tv 
+News apa tv  Apatv.az
 
 
 
