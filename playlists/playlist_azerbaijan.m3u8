@@ -49,3 +49,5 @@ https://www.tvkaista.net/stream-forwarder/get.php?x=MCJTVShop
 https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP
 #EXTINF:-1 tvg-name="MTV Azerbaijan Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/622px-MTV_Az%C9%99rbaycan_%282022%29.png" group-title="Azerbaijan",MTV Azerbaijan Ⓢ
 https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan
+#EXTINF:-1 tvg-name="APATV" tvg-logo="XTINF:-1 tvg-id="APA TV" tvg-logo="apa.tv" group-title="Xəbərlər" group-title="Azerbaijan",APATV
+[>
